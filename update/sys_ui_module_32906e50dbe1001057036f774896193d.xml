@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Test App1">b2906e50dbe1001057036f774896193a</application>
+        <filter/>
+        <name>Table1s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_137787_testapp1.table1_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-02 06:52:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>32906e50dbe1001057036f774896193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Table1s</sys_name>
+        <sys_package display_value="TestApp1" source="x_137787_testapp1">68017d50db21001057036f7748961909</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestApp1">68017d50db21001057036f7748961909</sys_scope>
+        <sys_update_name>sys_ui_module_32906e50dbe1001057036f774896193d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-02 06:52:49</sys_updated_on>
+        <table>x_137787_testapp1_table1</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
